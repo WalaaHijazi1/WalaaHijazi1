@@ -6,6 +6,16 @@
 
 I'm passionate about automating software delivery, building scalable cloud-native solutions, and improving system reliability. I specialize in CI/CD pipelines, container orchestration, and monitoring complex distributed systems.
 
+## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+
+- **Cloud:** AWS (EC2, S3, IAM, RDS, EKS, ECS), Terraform, CloudFormation
+- **Containers:** Docker, Docker Compose, Kubernetes (Minikube, EKS)
+- **CI/CD:** Jenkins, GitHub Actions, Helm, ArgoCD
+- **Monitoring & Security:** Prometheus, Grafana, Node Exporter, Trivy, OWASP ZAP
+- **Languages:** Python, Bash, YAML, SQL
+- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket
+
+---
 ### 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝘁𝗵𝗮𝘁 𝗜 𝘂𝘀𝗲𝗱 𝗶𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 ![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,github,jenkins,linux,django,bots,flask,git,terraform,githubactions,mongodb,gitlab,grafana,prometheus,mysql,npm,ubuntu,powershell,pycharm,selenium,kubernetes,vim,py,vscode&perline=13)
 
