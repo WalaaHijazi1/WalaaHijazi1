@@ -1,5 +1,4 @@
-## Hi there 👋
-<h3 align="center">✦⁺₊✩☽⋆ &nbsp;&nbsp; 𝗪𝗮𝗹𝗮𝗮 𝗛𝗶𝗷𝗮𝘇𝗶 &nbsp;&nbsp;⋆☾✩⁺₊✦</h3>
+<h1 align="center">✦⁺₊✩☽⋆ &nbsp;&nbsp; 𝗪𝗮𝗹𝗮𝗮 𝗛𝗶𝗷𝗮𝘇𝗶 &nbsp;&nbsp;⋆☾✩⁺₊✦</h1>
 
 <div align="center">
 <img src="https://img.shields.io/badge/DevOps%20Engineer%20%7C%20AWS%20SAA--C03%20Certified%20%7C%20IaC%20Advocate-black?style=for-the-badge&logo=github&logoColor=white" />
@@ -32,6 +31,8 @@ I'm passionate about automating software delivery, building scalable cloud-nativ
 </div>
 
 <!--
+## Hi there 👋
+
 **WalaaHijazi1/WalaaHijazi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
