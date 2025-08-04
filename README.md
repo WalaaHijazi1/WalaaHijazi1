@@ -13,7 +13,7 @@
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="55" style="margin:12px" alt="GitHub" />
   </a>
   <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/walaa-hijazi/)">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="55" style="margin:12px" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="55" style="margin:12px" alt="LinkedIn" />
   </a>
   <a href="mailto:walaa.25.11@hotmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-8B89CC.svg?logo=mail&logoColor=white&circle" width="115" style="margin:12px" alt="Email"/>
