@@ -1,9 +1,8 @@
 ## Hi there 👋
 #                ✦⁺₊✩☽⋆      𝗪𝗮𝗹𝗮𝗮 𝗛𝗶𝗷𝗮𝘇𝗶      ⋆☾✩⁺₊✦
 
-<div style="background-color:#000000; color:#ffffff; padding:10px; border-radius:8px; font-weight:bold; font-size:16px">
-<pre> ```diff 🚀 DevOps Engineer | AWS SAA-C03 Certified | Infrastructure as Code Advocate ``` </pre>
-</div>
+<img src="https://img.shields.io/badge/DevOps%20Engineer%20%7C%20AWS%20SAA--C03%20Certified%20%7C%20IaC%20Advocate-black?style=for-the-badge&logo=github&logoColor=white" />
+
 
 I'm passionate about automating software delivery, building scalable cloud-native solutions, and improving system reliability. I specialize in CI/CD pipelines, container orchestration, and monitoring complex distributed systems.
 
