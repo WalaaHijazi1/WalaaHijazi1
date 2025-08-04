@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/DevOps%20Engineer%20%7C%20AWS%20SAA--C03%20Certified%20%7C%20IaC%20Advocate-black?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-I'm passionate about automating software delivery, building scalable cloud-native solutions, and improving system reliability. I specialize in CI/CD pipelines, container orchestration, and monitoring complex distributed systems.
+DevOps Engineer, that is passionate about automating software delivery, building scalable cloud-native solutions, and improving system reliability. I specialize in CI/CD pipelines, container orchestration, and monitoring complex distributed systems.
 
 ## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
