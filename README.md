@@ -1,6 +1,10 @@
 ## Hi there 👋
 #                ✦⁺₊✩☽⋆      𝗪𝗮𝗹𝗮𝗮 𝗛𝗶𝗷𝗮𝘇𝗶 - 𝗗𝗲𝘃𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿      ⋆☾✩⁺₊✦
 
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,github,jenkins,linux,django,bots,flask,git,terraform,githubactions,mongodb,gitlab,grafana,prometheus,mysql,jenkins,ubuntu,npm,powershell,pycharm,selenium,vim,py,vscode&perline=4)](https://skillicons.dev)
+
 <!--
 **WalaaHijazi1/WalaaHijazi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
