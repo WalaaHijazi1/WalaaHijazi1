@@ -1,12 +1,11 @@
 ## Hi there 👋
 #                ✦⁺₊✩☽⋆      𝗪𝗮𝗹𝗮𝗮 𝗛𝗶𝗷𝗮𝘇𝗶      ⋆☾✩⁺₊✦
 
-I'm passionate about automating software delivery, building scalable cloud-native solutions, and improving system reliability. I specialize in CI/CD pipelines, container orchestration, and monitoring complex distributed systems.
-
 <div style="background-color:#000000; color:#ffffff; padding:10px; border-radius:8px; font-weight:bold; font-size:16px">
-🚀 DevOps Engineer | AWS SAA-C03 Certified | Infrastructure as Code Advocate
+<pre> ```diff 🚀 DevOps Engineer | AWS SAA-C03 Certified | Infrastructure as Code Advocate ``` </pre>
 </div>
 
+I'm passionate about automating software delivery, building scalable cloud-native solutions, and improving system reliability. I specialize in CI/CD pipelines, container orchestration, and monitoring complex distributed systems.
 
 ### 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝘁𝗵𝗮𝘁 𝗜 𝘂𝘀𝗲𝗱 𝗶𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 ![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,github,jenkins,linux,django,bots,flask,git,terraform,githubactions,mongodb,gitlab,grafana,prometheus,mysql,npm,ubuntu,powershell,pycharm,selenium,kubernetes,vim,py,vscode&perline=13)
