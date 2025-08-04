@@ -4,7 +4,7 @@
 
 
 ### 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝘁𝗵𝗮𝘁 𝗜 𝘂𝘀𝗲𝗱 𝗶𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
-![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,github,jenkins,linux,django,bots,flask,git,terraform,githubactions,mongodb,gitlab,grafana,prometheus,mysql,jenkins,ubuntu,powershell,pycharm,selenium,kubernetes,vim,py,vscode&perline=13)
+![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,github,jenkins,linux,django,bots,flask,git,terraform,githubactions,mongodb,gitlab,grafana,prometheus,mysql,npm,ubuntu,powershell,pycharm,selenium,kubernetes,vim,py,vscode&perline=13)
 
 #### 📬 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲:
 
