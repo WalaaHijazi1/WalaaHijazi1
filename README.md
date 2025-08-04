@@ -3,7 +3,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,github,jenkins,linux,django,bots,flask,git,terraform,githubactions,mongodb,gitlab,grafana,prometheus,mysql,jenkins,ubuntu,npm,powershell,pycharm,selenium,kubernetes,vim,py,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,github,jenkins,linux,django,bots,flask,git,terraform,githubactions,mongodb,gitlab,grafana,prometheus,mysql,jenkins,ubuntu,powershell,pycharm,selenium,kubernetes,vim,py,vscode&perline=13)](https://skillicons.dev)
 
 <!--
 **WalaaHijazi1/WalaaHijazi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
