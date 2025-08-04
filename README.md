@@ -19,6 +19,13 @@ DevOps Engineer, that is passionate about automating software delivery, building
 ### 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝘁𝗵𝗮𝘁 𝗜 𝘂𝘀𝗲𝗱 𝗶𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 ![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,github,jenkins,linux,django,bots,flask,git,terraform,githubactions,mongodb,gitlab,grafana,prometheus,mysql,npm,ubuntu,powershell,pycharm,selenium,kubernetes,vim,py,vscode&perline=13)
 
+
+<div align="center">
+  <a >
+     <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" />
+  </a>
+</div>
+
 #### 📬 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲:
 
 <div align="left">
@@ -30,13 +37,6 @@ DevOps Engineer, that is passionate about automating software delivery, building
   </a>
   <a href="mailto:walaa.25.11@hotmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-8B89CC.svg?logo=mail&logoColor=white&circle" width="50" style="margin:12px" alt="Email"/>
-  </a>
-</div>
-
-
-<div align="center">
-  <a >
-     <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" />
   </a>
 </div>
 
