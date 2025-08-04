@@ -8,15 +8,15 @@
 
 ## 📬 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/WalaaHijazi1">
-    <img src="https://skillicons.dev/icons?i=github" width="55" style="margin:12px" alt="GitHub"/>
+     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="55" style="margin:12px" alt="GitHub" />
   </a>
   <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/walaa-hijazi/)">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" style="margin:12px" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="55" style="margin:12px" alt="LinkedIn" />
   </a>
   <a href="mailto:walaa.25.11@hotmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-8B89CC.svg?logo=mail&logoColor=white&circle" width="55" style="margin:12px" alt="Email"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-8B89CC.svg?logo=mail&logoColor=white&circle" width="115" style="margin:12px" alt="Email"/>
   </a>
 </div>
 
