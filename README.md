@@ -11,9 +11,9 @@ DevOps Engineer, that is passionate about automating software delivery, building
 - **Cloud:** AWS (EC2, S3, IAM, RDS, EKS, ECS), Terraform, CloudFormation
 - **Containers:** Docker, Docker Compose, Kubernetes (Minikube, EKS)
 - **CI/CD:** Jenkins, GitHub Actions, Helm, ArgoCD
-- **Monitoring & Security:** Prometheus, Grafana, Node Exporter, Trivy, OWASP ZAP
+- **Monitoring & Security:** Prometheus, Grafana, Trivy, OWASP ZAP
 - **Languages:** Python, Bash, YAML, SQL
-- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket
+- **Version Control & Collaboration:** Git, GitHub
 
 ---
 ### 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝘁𝗵𝗮𝘁 𝗜 𝘂𝘀𝗲𝗱 𝗶𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
